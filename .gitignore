@@ -1,0 +1,19 @@
+# Virtual Environments (Penting)
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache (Penting agar repo bersih)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS specific (Karena kamu pakai Mac)
+.DS_Store
+
+# Windows specific (Jaga-jaga jika dibuka di Windows)
+Thumbs.db
+
+# VS Code settings (Opsional, jika tidak ingin setting editor ikut terupload)
+.vscode/
